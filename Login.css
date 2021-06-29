@@ -1,0 +1,9 @@
+.log{
+        position: absolute;
+        top: 20%;
+        left: 40%;
+        right: 30%;
+        bottom: 20%;
+        font-size: 18px;
+    }
+   
